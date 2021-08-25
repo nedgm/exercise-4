@@ -1,1 +1,7 @@
 *.png
+*.user
+.vs/
+Result.txt
+Log.txt
+bin/
+obj/
