@@ -1,1 +1,14 @@
 *.png
+.*/.svn/
+.*/obj/
+.*/Bin/
+.*/bin/
+.*ReSharper.*
+*.suo
+*.sln.docstates
+*.user
+Debug
+Release
+bin/
+obj/
+.vs/
